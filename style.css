@@ -1,0 +1,58 @@
+.heading {
+    color:black;
+    font-family:"Roboto";
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    padding: 3px;
+    margin-left: 30px ;
+}
+.paragraph {
+    color:black;
+    font-family:"Roboto";
+    font-size:15px;
+    text-align: center;
+    width: 300px;
+    height: 30px;
+    margin-left: 30px;
+}
+.button {
+    color:white;
+    font-family:"Roboto";
+    font-size:15px;
+    text-align: center;
+    background-color: skyblue;
+    width: 130px;
+    height: 30px;
+    margin-left:110px;
+    border-radius: 20px;
+}
+.card {
+    background-color:white;
+    width: 400px;
+    height: 180px;
+    padding-left: 5px;
+    padding-right:5px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+    border-radius:9px;
+    margin-top: 10px;
+}
+.bg-img {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-tropical-empty-beach-sea-ocean-with-white-cloud-blue-sky-background_74190-13668.jpg?t=st=1719317937~exp=1719321537~hmac=de81e7169ec4fed04b25da30909dcb4ab8cb8e5b109f2297241e92d665bebc1f&w=360");
+    width: 400px;
+    height: 600px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 5px;
+}
+.image {
+    background-image: url(https://img.freepik.com/free-photo/vertical-overhead-shot-wavy-sea-against-seashore_181624-23336.jpg?uid=R153210607&ga=GA1.1.1759182771.1718728271&semt=sph);
+    height: 600px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 8px;
+}
+    
